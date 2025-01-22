@@ -1,1 +1,2 @@
 # Email-chat-analysis-and-spam-prediction
+The dataset needed alot of preprocessing. After that, I have analyzed the correlation of different columns with them being spam or not. Finally, in train a machine learning model that predict either a new message is spam or not, I have used concepts of NLP to preprocess data. Different machine learning models were trained to finalize one with best possible accuracy
